@@ -1,13 +1,10 @@
 github
 ======
 
-学习使用github。
+学习使用 github。
 
-详细教程[GotGithub](http://www.worldhello.net/gotgithub/index.html) 
+详细教程[GotGithub](http://www.worldhello.net/gotgithub/index.html)。
 
-事先准备好git客户端。
+windows 下安装 [msysgit](https://code.google.com/p/msysgit/downloads/list), 生成 SSH 密钥。
 
-注册账户后，在「账户设置」添加SSH公钥。
-
-
-
+注册 github 账户，在 [账户设置](https://github.com/settings/ssh) 添加 SSH 公钥。
