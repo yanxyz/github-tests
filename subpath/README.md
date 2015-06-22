@@ -8,6 +8,12 @@
 
 #### && expressions
 
+A struct type is similar to a class type in that it represents a
+structure with data members and function members. However, unlike
+classes, structs are value types and do not require heap allocation.
+Struct types do not support user-specified inheritance, and all struct
+types implicitly inherit from type object.
+
 #### || expressions
 
 #### ! expressions
